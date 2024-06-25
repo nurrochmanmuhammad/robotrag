@@ -18,11 +18,16 @@
 
 ### Tutorial to start the chat bot streamlit
 
+makesure python installed in your environment. (Python 3.9.18)
+
 install ollama first.
 
 at terminal run:
-> curl https://ollama.ai/install.sh | sh
+```
+curl https://ollama.ai/install.sh | sh
+ollama run gemma:2b
+pip install -r requirements.txt
+streamlit run robo.py
+```
 
-> ollama run gemma:2b
-
-> streamlit run robo.py
+need 10min for coldstart.
