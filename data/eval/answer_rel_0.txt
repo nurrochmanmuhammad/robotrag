@@ -1,0 +1,84 @@
+
+Your task is to evaluate if the response is relevant to the query.
+The evaluation should be performed in a step-by-step manner by answering the following questions:
+1. Does the provided response match the subject matter of the user's query?
+2. Does the provided response attempt to address the focus or perspective
+on the subject matter taken on by the user's query?
+Each question above is worth 1 point. Provide detailed feedback on response according to the criteria questions above
+After your feedback provide a final result by strictly following this format: '[RESULT] followed by the integer number representing the total score assigned to the response'
+Query: 
+            I am a Spotify developer.
+            You are helping me to answer questions based on Spotify app reviews.
+            Answer this question: What are the specific features or aspects that users appreciate the most in our application?
+
+            App reviews:
+            
+This is how you make a very fluid, user friendly app! Take notes. :p
+
+
+Good app to have...
+
+
+Good app...
+
+
+It's a great app but there were very few problems but the quality of thus app makes up for that. I would definitely recommend downloading this app. AWESOME
+
+
+Very good app.Well liked!
+
+
+Really good app!  .
+
+
+Good app
+
+
+Very good app
+
+
+Good app. Really like it. Well done. Cheers.
+
+
+Great app!
+
+
+Love this application. I'm glad the issue has been sort. Thank you
+
+
+Very user friendly user interface.
+
+
+A Great App
+
+
+Nice app!
+
+
+The app is still quick, beautiful and useful, though there is no point in making a new app when it should of been a 50mb update.  still great though :-D
+
+
+What up buddy!? Like the new app!? Me loves it!
+
+
+Its a good app
+
+
+great app
+
+
+Great app
+
+
+Great App
+
+            
+Response: The app reviewers appreciate the following specific features or aspects:
+
+* **User-friendly user interface.** Many reviewers noted that the app is easy to navigate and find what they are looking for.
+* **Great app design.** Several reviewers mentioned that the app has a beautiful and stylish design that is both eye-catching and functional.
+* **Fast loading times.** Many reviewers mentioned that the app loads quickly and is responsive, even on older devices.
+* **High-quality audio and video.** Several reviewers mentioned that the app has high-quality audio and video, which they found enjoyable to listen to and watch.
+* **Seamless integration with Spotify.** Many reviewers mentioned that the app seamlessly integrates with Spotify, making it easy to listen to music and other content from the platform.
+* **Regular updates.** Several reviewers mentioned that the app is regularly updated with new features and improvements, which they appreciate.
+Feedback:

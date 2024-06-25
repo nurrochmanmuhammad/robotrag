@@ -66,7 +66,7 @@ class RAGBot:
         self.llm = Ollama(model=MODEL_NAME, request_timeout=REQUEST_TIMEOUT)
         self.collection = collection
 
-    def qna(self, question, RAG_KEYWORD=30):
+    def qna(self, question, RAG_KEYWORD=30,get_query=False):
         '''
         Performs Q&A using RAG method.
 
@@ -100,7 +100,10 @@ class RAGBot:
             '''
 
             response2 = self.llm.complete(st)
-            return response2.text
+            if get_query:
+                return st,response2.text
+            else:
+                return response2.text
 
         except Exception as e:
             print(f"Error during Q&A: {e}")

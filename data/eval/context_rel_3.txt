@@ -1,0 +1,78 @@
+
+Your task is to evaluate if the retrieved context from the document sources are relevant to the query
+The evaluation should be performed in a step-by-step manner by answering the following questions:
+1. Does the retrieved context match the subject matter of the user's query?
+2. Can the retrieved context be used exclusively to provide a full answer to the user's query?
+Each question above is worth 2 points, where partial marks are allowed and encouraged. Provide detailed feedback on the response
+according to the criteria questions previously mentioned.
+After your feedback provide a final result by strictly following this format: 
+[RESULT] followed by the float number representing the total score assigned to the response
+Query: Can you identify emerging trends or patterns in recent user reviews that may impact our product strategy?
+Context: 
+            I am a Spotify developer.
+            You are helping me to answer questions based on Spotify app reviews.
+            Answer this question: Can you identify emerging trends or patterns in recent user reviews that may impact our product strategy?
+
+            App reviews:
+            
+Great work to release the app quickly however I think you should mention the reason why, I know it's a marketing nightmare but your customers should come first and be informed. Keep up the good work tho.
+
+
+People complain without doing their research.  There was a legitimate reason as to their change of app (security). Look it up before complaining and giving bad ratings. This is the same albeit more secure app and is the same 5 star app ad before. Nuff said. Stop complaining.
+
+
+Spotify experienced a breach in security that they believe they've addressed. This, I'd assume, new app addresses the security concern(s). Read the link   provided before rating the app with low stars for something they've clearly explained.
+
+
+-Would give 5 Stars if app was totally free  -Would give 4 Stars if app worked as it did yesterday -As of  now you get 3 post this past update as music cuts out terribly, app is not totally free and now seems to have more commercials then before
+
+
+This is how you make a very fluid, user friendly app! Take notes. :p
+
+
+I don't understand why a security breach need to make a new app instead of updating the existing app. Though I am amazed on the speedy response you had given to the breach which most companies don't.
+
+
+Love this application. I'm glad the issue has been sort. Thank you
+
+
+Love the concept, hate the execution. Or more specifically, the manic developers for the mobile app. Constant updates that add bloat and bugs that make the experience worse over time. Stop messing with stuff! You're "cheeky" patch notes don't make up for all the hates when a new patch comes, and I get to spend a half hour figuring out what they broke this time.
+
+
+There was a data breach with the old app, so they had to release a new one. Are you really that thick to think they're all sitting around like, "hhhmmm, let's put a bunch of resources into releasing the exact same app just to mess with our users." No. People seem so helpless....
+
+
+Maybe they just wanted people to re-download a new app entirely so they'd get different ratings.  Mission accomplished!  One star for those efforts.   :(
+
+
+I agree with Josh below. Never before have I observed an app handled as poorly as this recent decision with NO EXPLINATION besides the obvious name change from Spot.. to Spot..Music. Absurd. Get it together or myself and others will take our paid subscriptions elsewhere.
+
+
+Hood app Store and share your thoughts and ideas on the site and your own review of the year and the other day and night and I am a little too late to get the latest news and information on the site and your own review of the year and the other day and night and you could get it on your site is down and I can w I think the last two weeks of August to you soon and then click the image
+
+
+I don't like the new version at all. It's slow, it freezes constantly, and now I have to put up with commercials and suggested songs interrupting my playlists....I am not happy. I'm peeved actually. Who ever came up with the idea to make you download an entire new app and put suggested songs in between your playlist needs to be superman punched in the face.
+
+
+Why the heck would you put another spotify app on the store with your old one still there.... This leads to confusion especially since you just sent me an email that spotify got hacked and compromised. GREAT JOB!
+
+
+All these people complaining about the "upgrade/reinstall" clearly don't research anything. I got an email saying the system was hacked (targeting one user...but it could pose risk to everyone) and they are using a new app for security reasons. I would rather have to download a new app and loose everything than have someone steal all my information. But I guess people just like to complain. Good for you Spotify being proactive!!!
+
+
+It's a great app but there were very few problems but the quality of thus app makes up for that. I would definitely recommend downloading this app. AWESOME
+
+
+Spotify was hit by a security breach. so they had to change the app. Do people even read.
+
+
+I must agree with the other views here. As an IT manager how can you make all your customers download the app again! AND ALL MY STORED MUSIC!!!  What poor project management and customer service!!! I WILL be looking for an alternative product and cancelling my £9.99 subscription.
+
+
+As an app Dev myself, I feel sorry for you devs with all these poo reviews about having to redownload. I'm pretty sure the haven't read the notice about the security beach which Spotify QUICKLY ADDRESSED. Big ups to you all.
+
+
+I dont understand why can't ppl just put more time to find out and understand the situation instead of complaining straight away. There are certain reasons for the reinstallation and re-downloading, stating very cleary by Spotify CTO. If only everyone take time to read the further information before complaining, this app would have even higher rate. Keep up developing spirit, guys!
+
+            
+Feedback:

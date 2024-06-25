@@ -1,0 +1,78 @@
+
+Your task is to evaluate if the retrieved context from the document sources are relevant to the query
+The evaluation should be performed in a step-by-step manner by answering the following questions:
+1. Does the retrieved context match the subject matter of the user's query?
+2. Can the retrieved context be used exclusively to provide a full answer to the user's query?
+Each question above is worth 2 points, where partial marks are allowed and encouraged. Provide detailed feedback on the response
+according to the criteria questions previously mentioned.
+After your feedback provide a final result by strictly following this format: 
+[RESULT] followed by the float number representing the total score assigned to the response
+Query: In comparison to our application, which music streaming platform are users most likely to compare ours with?
+Context: 
+            I am a Spotify developer.
+            You are helping me to answer questions based on Spotify app reviews.
+            Answer this question: In comparison to our application, which music streaming platform are users most likely to compare ours with?
+
+            App reviews:
+            
+Spotify is on my personal must-own, Top-5 lists for both PC and Android. It is the best music streaming service bar none. On-demand listening to any song, a huge music library, sleek social media integration and a sexy interface comprise just some of the reasons Spotify is part of my daily life. Were their radio feature to match/beat Pandora's elite *suggested/similar music* algorithm, they would render all competitors obsolete and irrelevant.
+
+
+Is the best music streaming service that I have used by far.
+
+
+I love spotify. Fast and easy to use and has a huge catalogue of songs. Only negative I have is some of the more advanced functionality is hidden away too well.
+
+
+I use spotify almost every second of the day. The music library is bigger than iTunes and the radio feature stays relevant, unlike Pandora. The music discovery aspect of this app keeps me from having to listen to the actual radio or YouTube surf to find new tracks. The cost is low for the convenience it serves. Great sound quality, with equalizers cross fades between songs,and bass boosts, let's you really control the way you listen to your music.! I advise everyone to at least give it a try
+
+
+Best music streaming service I'v used so far
+
+
+Spotify allows you to listen to albums and individual songs. I haven't used another music station since. Pandora's nice but this is the jag of a car:)  You can download music to play offline, awesome!  You do need to upgrade for that but it's cheaper than buying songs to download them. I recommend this highly and a few people have changed because I've turned th on to this:)
+
+
+Spotify is by far the best music app I have tried. Easy to use, lots of songs and great quality. Premium is worth it.
+
+
+I ♡ this app. I have the premium version on Samsung galaxy s5. Really good streaming on radio and excellent quality of songs, as well as being available offline. Awsome work Spotify.  Well done, I'm impressed.
+
+
+For most of the time, Spotify has served me well. I have Spotify Premium and have been using it since October last year. I use it on my phone and laptop and there are usually no problems. The variety of music is great and I like not having to go through hundreds of ads. However, whenever there are problems, they're BIG problems. I went without music for week last month when I updated the app and it wouldn't let me sync any music to offline mode. I finally managed to fix that and it's back to being great!
+
+
+I also use another service. Spotify is more individual and personal. Highly recommend.
+
+
+Way better than Pandora or other music streaming service. All I do is create my play lists on my desktop and just shuffle them on my phone wherever I go. It only plays the songs on my list and Spotify doesn't throw anything random in there like Pandora does.
+
+
+The Spotify app is pretty amazing, always has been and still is. The fact people are whining about needing to redownload their playlists is testament to their ignorance: Spotify had a security issue, and rather than ignoring it, like some companies would do, they instantly did something about it. Of course, the reason for doing it could easily be to protect the copyright holders of the music rather than (directly) the customer, but the outcome is the same; we are better off for it.
+
+
+I switched to spotify music because I had to and there's difference! Great app
+
+
+Premium subscriber since before the US launch. I would just like to express my gratitude to the whole Spotify team in the form of a 5 star review. Spotify has been doing it longer than anyone else, better than anyone else, the app is beautiful, the UI meets Google design guidelines and the My Music functionality is a game changer. But the absolute best thing about Spotify is that they PUT MY MONEY TO WORK TO GET ME BETTER MUSIC. Metallica, Pink Floyd, Led Zeppelin, etc added over the years. Spotify rocks!
+
+
+I can't remember the last time I purchased a cd since I have been a subscriber of Spotify. Best audio streaming service. Runs on my Sonos system like a charm. Coudn't have asked for more. :)
+
+
+The best music application by far. It's worth the download trust me.😍
+
+
+Love Spotify. One of the best done Android apps by far (even better than its iOS counterpart) and the service has made finding and listening to music incredibly easy.
+
+
+Spotify is great. Only thing keeping it from 5/5 are some minor issues like downloaded songs disappearing after updates and albums from some artists not on the service yet.
+
+
+I've been using lots of music apps but Spotify is far better than the others. I love it!!!!!
+
+
+I've been using Spotify Premium for a while now, but the inconvenience, limitations and excessive DRM is getting ridiculous. Pirates get to actually own their music, listen to it on whatever player they feel is best, using it with any other app that uses music files, without an internet connection, without having their music rendered unlistenable spontaneously and without warning.  Paying customers shouldn't have to put up with so much crap. There are better ways to listen to music.
+
+            
+Feedback:

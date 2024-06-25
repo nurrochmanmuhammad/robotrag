@@ -1,0 +1,78 @@
+
+Your task is to evaluate if the retrieved context from the document sources are relevant to the query
+The evaluation should be performed in a step-by-step manner by answering the following questions:
+1. Does the retrieved context match the subject matter of the user's query?
+2. Can the retrieved context be used exclusively to provide a full answer to the user's query?
+Each question above is worth 2 points, where partial marks are allowed and encouraged. Provide detailed feedback on the response
+according to the criteria questions previously mentioned.
+After your feedback provide a final result by strictly following this format: 
+[RESULT] followed by the float number representing the total score assigned to the response
+Query: What are the primary reasons users express dissatisfaction with Spotify?
+Context: 
+            I am a Spotify developer.
+            You are helping me to answer questions based on Spotify app reviews.
+            Answer this question: What are the primary reasons users express dissatisfaction with Spotify?
+
+            App reviews:
+            
+Spotify experienced a breach in security that they believe they've addressed. This, I'd assume, new app addresses the security concern(s). Read the link   provided before rating the app with low stars for something they've clearly explained.
+
+
+Why the heck would you put another spotify app on the store with your old one still there.... This leads to confusion especially since you just sent me an email that spotify got hacked and compromised. GREAT JOB!
+
+
+Spotify is an amazing music service. But there are those that like to cause trouble and so because of that the old app had to be ditched and patched with new app. For those who are mad because of a sudden update and came across sudden problem: Get over yourselves. Be glad they did what they before you became a casualty in the digital age.
+
+
+what's the difference between Spotify and Spotify Music app? I've noticed the same two apps in the Play Store :/ despite this I love the app!
+
+
+Lost count of the number of times I have had to re download playlists. Spotify don't care its not their problem. Time to trial other options I think.
+
+
+I dont understand why can't ppl just put more time to find out and understand the situation instead of complaining straight away. There are certain reasons for the reinstallation and re-downloading, stating very cleary by Spotify CTO. If only everyone take time to read the further information before complaining, this app would have even higher rate. Keep up developing spirit, guys!
+
+
+Brilliant app and service, but a quite ridiculous gaffe by the good folk at Spotify in requiring users to reinstall the app and download all playlists! What an earth went wrong ? I was left on the underground with a non-functioning Spotify having to endure overhearing the 'conversation' of 2 teenage girls :-( Ya nah wat I mean...
+
+
+The Spotify app is pretty amazing, always has been and still is. The fact people are whining about needing to redownload their playlists is testament to their ignorance: Spotify had a security issue, and rather than ignoring it, like some companies would do, they instantly did something about it. Of course, the reason for doing it could easily be to protect the copyright holders of the music rather than (directly) the customer, but the outcome is the same; we are better off for it.
+
+
+I use spotify, in particular, downloaded content, on my commute every day. Left work this afternoon and found that my app would not load, and that even after downloading the new version, none of my offline content was available. For a service that I am paying for, this is unacceptable. Hopefully future updates won't be handled so poorly.
+
+
+So I pay spotify a subscription fee only to arrive at work to be told I have to re download spotify to use the app? I download it on painfully slow uk mobile broadband at my expense to find my entire library has been removed from my phone..... So I have to go a long 12 hour workday in front of financial spreadsheets with no music. Thanks a lot spotify for this stupid move. Every other app on the app store keeps data when it updates, why not yours? And why force the update? No Grace period? ? I will cancel.
+
+
+Forcing an app update with no forewarning which then leads to removed play lists and my need to restore them when I'm no longer within wifi and on a trip which I was looking forward to enjoying with my music? Thanks Spotify. How about a heads up next time? Idiots.
+
+
+Spotify was hit by a security breach. so they had to change the app. Do people even read.
+
+
+Really, Spotify, you're great. You've won me over. But forcing me to download a new version of your app that first crashes, then announces it's deleted all my previously downloaded music, is just not ok. Poor form.
+
+
+Who ever decided to remake the app forcing users to re-download all of their offline content without giving them any kind of warning is a douchebag. Premium user for years and been using Spotify since Beta. Worst failure to communicate that I can remember.
+
+
+For most of the time, Spotify has served me well. I have Spotify Premium and have been using it since October last year. I use it on my phone and laptop and there are usually no problems. The variety of music is great and I like not having to go through hundreds of ads. However, whenever there are problems, they're BIG problems. I went without music for week last month when I updated the app and it wouldn't let me sync any music to offline mode. I finally managed to fix that and it's back to being great!
+
+
+All these people complaining about the "upgrade/reinstall" clearly don't research anything. I got an email saying the system was hacked (targeting one user...but it could pose risk to everyone) and they are using a new app for security reasons. I would rather have to download a new app and loose everything than have someone steal all my information. But I guess people just like to complain. Good for you Spotify being proactive!!!
+
+
+This app did not change for me but I don't own premium so maybe I am wrong but why complain about it? You liked spotify before so just stick to it and maybe in a day or two things will be fixed.
+
+
+Nice job Spotify.  Rather then update existing app, you put a new one out so all offline playlists must be downloaded.  Ugh!
+
+
+Spotify is a great service for consumers maybe not so much for the artist but still. People should stop crying about how they changed the app. They are just protecting there users. I would like to know why they did have to Scrap the other app only on Android?. But i digress.
+
+
+Making me upgrade AND download my play lists again, really? Not cool spotify. I was an advocate, not so sure now...
+
+            
+Feedback:
