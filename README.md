@@ -9,7 +9,7 @@ DASHBOARD & RAW_EVAL_CHATGPT: https://docs.google.com/document/d/1jrBUJTMHtKfEle
 
 ## Problem:
 1. Limited computational resource “no gpu”
-2. low embedding relevance.
+2. low relevance for embedding RAG only.
 3. Rerank LLM based is expensive and slow.
 
 ## Solution:
