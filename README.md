@@ -2,6 +2,8 @@
 
 DASHBOARD & RAW_EVAL_CHATGPT: https://docs.google.com/document/d/1jrBUJTMHtKfElek8gBO8WI4KZywkSDClwdgAUi9gO-8/edit?usp=sharing
 
+VIDEO DEMO: https://drive.google.com/file/d/1vXHZVvqpaA37TbYpLLJ2V0VUwsvWjAzR/view?usp=sharing
+
 # Details
 * LLM: ollama gemma:2b
 * RAG_Embedding:BAAI/bge-small-en-v1.5
